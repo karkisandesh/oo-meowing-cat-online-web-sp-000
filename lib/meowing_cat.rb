@@ -7,4 +7,4 @@ end
 
 cat = Cat.new
 cat.name="Kitty"
-Kitty.meow
+cat.meow
